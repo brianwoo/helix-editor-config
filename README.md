@@ -23,7 +23,7 @@ hx --health python
 |-----------|-------------|
 |Open file in buffer   |[Sp] f   |
 |Goto Next/Prev buffer |gn / gp   |
-|Goto Last buffer |ga   |
+|Goto Last Accessed buffer |ga   |
 |H/V split new buffer |:hnew / :vnew   |
 |Jump between splits |C-w up/down/left/right   |
 |Close Split |[Sp] wq   |
