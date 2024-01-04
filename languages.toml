@@ -1,3 +1,5 @@
 [[language]]
 name = "go"
 formatter = { command = "goimports" }
+indent = { tab-width = 2, unit = " " }
+
